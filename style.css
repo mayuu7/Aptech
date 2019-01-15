@@ -46,15 +46,15 @@ body{
 
 .customBtnMid:hover {
     border: 1px solid #ACA4D4;
-    background: #ffffff;
-    color: #2f3238 !important;
+    background: white;
+    color: #151840 !important;
     padding: 10px 35px 10px 35px;
 }
 .customBtnMid {
     -webkit-transition-duration: 0.4s;
     transition-duration: 0.4s;
     border: 1px solid #ACA4D4;
-    background: #2f3238;
+    background: #151840;
     color: #ffffff !important;
     padding: 10px 30px 10px 30px;
     cursor: pointer;
@@ -137,7 +137,8 @@ body{
 
 .recruiterCard{
 	
-	height: 300px;
+	height: 90px;
+	margin-bottom: 100px;
 }
 
 .recruiterCard i{
