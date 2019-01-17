@@ -10,7 +10,7 @@ body{
 }
 
 .backgroundOverlay{
-	background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.5) 100%, rgba(142, 138, 138, 0) 100%);
+	background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.7) 100%, rgba(142, 138, 138, 0) 100%);
 	height:inherit;
 	width: 100%;
 	color: white !important;
