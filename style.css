@@ -28,7 +28,7 @@ body{
 
 .card{
 	border: 1px solid black;
-	box-shadow: 1px 6px 9px 2px #747070;
+	/*box-shadow: 1px 6px 9px 2px #747070;*/
 	border-radius: 7px;
 	height: 450px;
 	text-align: left;
@@ -63,7 +63,7 @@ body{
 
 
 .rolesDiv{
-	background-color: #000000;
+	background-color: #7e7979;
 	padding: 0;
 	height: 100%;
 	text-align: center;
