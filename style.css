@@ -30,8 +30,14 @@ body{
 	border: 1px solid black;
 	/*box-shadow: 1px 6px 9px 2px #747070;*/
 	border-radius: 7px;
-	height: 450px;
+	height: 250px;
 	text-align: left;
+	width: 24%;
+	margin-right: 13px;
+}
+
+.card h2{
+	height: 80px;
 }
 .registerFormMainDiv{
 	text-align: center;
@@ -102,10 +108,10 @@ body{
     -ms-transform: scaleX(-1);
 }
 .roleBackgroundOverlay .firstCard{
-	margin-left: 50px;
+	/*margin-left: 50px;*/
 }
 .roleBackgroundOverlay .lastCard{
-	margin-right: 50px;
+	/*margin-right: 50px;*/
 }
 
 .roleCustomBtnMid:hover {
