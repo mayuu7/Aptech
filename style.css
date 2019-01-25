@@ -176,4 +176,12 @@ body{
   	height:200% !important;
   	
   }
+
+  .recruiterCard img{
+  	width: 50%;
+  }
+
+  .backgroundOverlay h3{
+  	font-size:16px !important;
+  }
 }
