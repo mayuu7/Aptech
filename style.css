@@ -166,4 +166,14 @@ body{
   .logos{
   	width: 200px !important;
   }
+
+  .card{
+  	width: 100%;
+  	
+  }
+
+  .rolesDiv{
+  	height:200% !important;
+  	
+  }
 }
