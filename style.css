@@ -3,17 +3,17 @@ body{
 }
 .topDiv{
 	height: 100%;
-	background: url('assets/background.jpeg');
+	background: url('assets/background1.jpeg');
 	background-position: center;
 	background-size: cover;
 	padding: 0;
 }
 
 .backgroundOverlay{
-	background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.2) 100%, rgba(142, 138, 138, 0) 100%);
+	background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.6) 100%, rgba(142, 138, 138, 0) 100%);
 	height:inherit;
 	width: 100%;
-	color: black !important;
+	color: white !important;
 	text-align: center;
 }
 
